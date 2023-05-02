@@ -2,7 +2,8 @@
 
 Given instructions:
 
-You are a data analyst intern for a private plane and helicopter rental company. For your first assignment, your new manager has tasked you with creating multiple dashboards to present at a company meeting. Specifically, you are required to use the provided FAA datasets to determine the best locations to set up new rental hubs. <br/>
+You are a data analyst intern for a private plane and helicopter rental company. For your first assignment, your new manager has tasked you with creating multiple dashboards to present at a company meeting. Specifically, you are required to use the provided FAA datasets to determine the best locations to set up new rental hubs.
+
 Your manager wants the answer to the following questions:
 • Which states and cities have the most airports with heliports?
 • What is the facility type breakdown for the states with the most airports?
